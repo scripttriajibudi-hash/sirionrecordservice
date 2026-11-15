@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sirion Record Service</title>
+  <style>
+    /* Mengatur agar iframe memenuhi seluruh layar browser */
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      overflow: hidden;
+      background-color: #1a2332;
+    }
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <!-- Ganti teks di dalam tanda petik di bawah ini dengan URL Web App Google Apps Script Anda yang panjang -->
+  <iframe src="https://script.google.com/macros/s/AKfycbzcxQkwPA2sOBic5_iO4muX6OR2ye3uoywg8sNmEHl_iNXypTkwKGX1MevOoFTcWUxD/exec"></iframe>
+</body>
+</html>
